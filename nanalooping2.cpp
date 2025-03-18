@@ -23,7 +23,7 @@ int main (){
     cout << endl;
 
     // Perulangan Do While
-    cout << "Perulangan Do While" << endl;
+    cout << "Perulangan DoWhile" << endl;
     do{
         cout << "Nilai x : " << x << "Lari Keliling Lapangan" << endl;
         x = rand() % 10;
